@@ -1,5 +1,6 @@
 # MyTodolist
 
+The web interface manages the todo lists. It has the ability to add new items, delete the items and mark the items completed.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
